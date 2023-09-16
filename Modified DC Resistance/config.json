@@ -1,0 +1,28 @@
+{
+    "voltName": "GPIB0::7::INSTR",
+    "ammName": "GPIB0::12::INSTR",
+    "switchName": "GPIB0::9::INSTR",
+    "cryoName": "COM1",
+    "users": {
+        "1": "Shanti",
+        "2": "Mason",
+        "3": "Audrey",
+        "4": "Shaun",
+        "5": "Willis",
+        "6": "Anukriti",
+        "7": "George",
+        "8": "Zoey",
+        "9": "Siwei"
+    },
+    "graphWidth": 1,
+    "graphColor": "y",
+    "current": "1e-6",
+    "voltLimit": "4",
+    "measurementType": 0,
+    "directory": "/Users/mason/PycharmProjects/Lab/Modified DC Resistance/data",
+    "OTDSet": 300,
+    "userID": "2",
+    "sampleName": "EuCd2P2",
+    "type": 0,
+    "runID": 98
+}
